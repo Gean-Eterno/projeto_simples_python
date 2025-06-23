@@ -17,4 +17,5 @@ O projeto foi desenvolvido com base nos requisitos passados pela disciplina e co
 1. Faça o download dos arquivos do projeto.
 2. Execute o arquivo Python no terminal com o comando:
 
-python nome_do_arquivo.py
+trabalho_python
+
