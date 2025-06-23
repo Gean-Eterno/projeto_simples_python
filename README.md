@@ -17,5 +17,4 @@ O projeto foi desenvolvido com base nos requisitos passados pela disciplina e co
 1. Faça o download dos arquivos do projeto.
 2. Execute os arquivos em um terminal com Python 3 (ou superior) instalado.
 
-trabalho_python
 
